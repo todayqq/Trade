@@ -14,3 +14,4 @@
 
 * [Vegas维加斯通道交易法](jiao-yi-ce-lve/vegas-wei-jia-si-tong-dao-jiao-yi-fa/README.md)
   * [Vegas 空头转多头案例](jiao-yi-ce-lve/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-kong-tou-zhuan-duo-tou-an-li.md)
+  * [Vegas 多头转空头](jiao-yi-ce-lve/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-duo-tou-zhuan-kong-tou.md)

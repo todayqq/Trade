@@ -1,7 +1,3 @@
----
-description: Vegas
----
-
 # Vegas维加斯通道交易法
 
 > 144-169 Ema 均线组成的通道叫 Vegas 维加斯通道
