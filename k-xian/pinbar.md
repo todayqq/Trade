@@ -13,9 +13,9 @@ Pinbar出现在一些关键的阻力位、支撑位的时候，多半预示着�
 
 如果负影线太长、K线实体太长，都不算是有效的Pinbar。
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>副影线太长</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (24).png" alt=""><figcaption><p>副影线太长</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>实体太大</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (26).png" alt=""><figcaption><p>实体太大</p></figcaption></figure>
 
 #### Pinbar是如何形成的？
 
