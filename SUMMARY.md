@@ -23,6 +23,7 @@
   * [Vegas 空头趋势中继下跌](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-kong-tou-qu-shi-zhong-ji-xia-die.md)
   * [Vegas 下跌趋势中上涨假突破](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-xia-die-qu-shi-zhong-shang-zhang-jia-tu-po.md)
   * [Vegas上涨趋势中下跌假跌破](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-shang-zhang-qu-shi-zhong-xia-die-jia-die-po.md)
+* [齿轮交易法则](jiao-yi-xi-tong/chi-lun-jiao-yi-fa-ze.md)
 * [交易市场的走势升级](jiao-yi-xi-tong/jiao-yi-shi-chang-de-zou-shi-sheng-ji.md)
 * [交易市场的快与慢](jiao-yi-xi-tong/jiao-yi-shi-chang-de-kuai-yu-man.md)
 * [仓位管理和盈亏比](jiao-yi-xi-tong/cang-wei-guan-li-he-ying-kui-bi/README.md)
