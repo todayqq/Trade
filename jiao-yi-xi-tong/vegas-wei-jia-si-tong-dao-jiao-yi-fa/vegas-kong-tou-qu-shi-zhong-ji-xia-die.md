@@ -1,6 +1,6 @@
 # Vegas 空头趋势中继下跌
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Vegas 空头趋势中继下跌</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Vegas 空头趋势中继下跌</p></figcaption></figure>
 
 #### 图表分析
 

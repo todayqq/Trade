@@ -1,6 +1,6 @@
 # Vegas 空头转多头案例
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Vegas 空头转多头案例</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Vegas 空头转多头案例</p></figcaption></figure>
 
 图中绿色箭头处为入场做多位置，空头趋势向多头趋势反转
 

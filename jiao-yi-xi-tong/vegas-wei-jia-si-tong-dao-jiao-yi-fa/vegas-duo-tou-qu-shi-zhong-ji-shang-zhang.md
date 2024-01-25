@@ -1,6 +1,6 @@
 # Vegas 多头趋势中继上涨
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Vegas多头趋势中继上涨</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>Vegas多头趋势中继上涨</p></figcaption></figure>
 
 白色通道线为 144-169 EMA，下文会叫做 Vegas 维加斯通道线
 
