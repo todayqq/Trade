@@ -32,4 +32,4 @@
 * [交易市场的快与慢](jiao-yi-xi-tong/jiao-yi-shi-chang-de-kuai-yu-man.md)
 * [仓位管理和盈亏比](jiao-yi-xi-tong/cang-wei-guan-li-he-ying-kui-bi/README.md)
   * [凯利公式](jiao-yi-xi-tong/cang-wei-guan-li-he-ying-kui-bi/kai-li-gong-shi.md)
-* [交易心理](jiao-yi-xi-tong/jiao-yi-xin-li.md)
+* [新手交易员的交易误区](jiao-yi-xi-tong/xin-shou-jiao-yi-yuan-de-jiao-yi-wu-qu.md)
