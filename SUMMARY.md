@@ -17,6 +17,7 @@
 * [左侧交易和右侧交易的区分](jiao-yi-xi-tong/zuo-ce-jiao-yi-he-you-ce-jiao-yi-de-qu-fen.md)
 * [裸K交易法则](jiao-yi-xi-tong/luokjiao-yi-fa-ze.md)
 * [Vegas维加斯通道交易法](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/README.md)
+  * [Vegas 做单标准](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-zuo-dan-biao-zhun.md)
   * [Vegas 空头转多头案例](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-kong-tou-zhuan-duo-tou-an-li.md)
   * [Vegas 多头转空头案例](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-duo-tou-zhuan-kong-tou-an-li.md)
   * [Vegas 多头趋势中继上涨](jiao-yi-xi-tong/vegas-wei-jia-si-tong-dao-jiao-yi-fa/vegas-duo-tou-qu-shi-zhong-ji-shang-zhang.md)
