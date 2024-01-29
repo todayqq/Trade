@@ -35,3 +35,4 @@
 * [仓位管理和盈亏比](jiao-yi-xi-tong/cang-wei-guan-li-he-ying-kui-bi/README.md)
   * [凯利公式](jiao-yi-xi-tong/cang-wei-guan-li-he-ying-kui-bi/kai-li-gong-shi.md)
 * [新手交易员的交易误区](jiao-yi-xi-tong/xin-shou-jiao-yi-yuan-de-jiao-yi-wu-qu.md)
+* [交易员的自信](jiao-yi-xi-tong/jiao-yi-yuan-de-zi-xin.md)
