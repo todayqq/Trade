@@ -20,7 +20,7 @@
 
 1倍 Vegas 上穿 2倍Vegas 视为多头趋势，1倍 Vegas下穿 2倍 Vegas视为空头趋势。
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>图1</p></figcaption></figure>
 
 只用3条均线 12 EMA，144-169 Vegas不是足够了吗？为什么要用2倍的 288-388 Vegas隧道？
 

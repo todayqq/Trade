@@ -40,7 +40,7 @@
 
 在1倍的 Vegas 通道获得支撑、阻力时，也可以入场交易
 
-<figure><img src="../../.gitbook/assets/image (41).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 如何止损？
 
